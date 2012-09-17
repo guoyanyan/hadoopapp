@@ -1,6 +1,6 @@
-#include"Pipes.hh"
-#include"TemplateFactory.hh"
-#include"StringUtils.hh"
+#include "hadoop/Pipes.hh"
+#include "hadoop/TemplateFactory.hh"
+#include "hadoop/StringUtils.hh"
 
 // 100G的数据，分别保存在5个文件中
 // 5个数据文件的内容均为相同的格式
